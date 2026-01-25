@@ -68,7 +68,7 @@ Designing intuitive, visually appealing dashboards that allow stakeholders to tr
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/sandip-kundu-873b28383">
+  <a href="https://www.linkedin.com/in/sandipkundu-tech/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
