@@ -18,7 +18,7 @@ Raw data is rarely ready for analysis. I specialize in the ETL process to ensure
 
 #### 🗄️ SQL & Database Management
 Proficient in querying relational databases to extract relevant datasets for reporting.
-* **Key Skills:** Complex Joins & CTEs, Data Modeling, MySQL.
+* **Key Skills:** Complex Joins & CTEs, Data Modeling, PostgreSQL.
 
 #### 📈 Interactive Dashboards
 Designing intuitive, visually appealing dashboards that allow stakeholders to track KPIs in real-time.
@@ -46,7 +46,7 @@ Designing intuitive, visually appealing dashboards that allow stakeholders to tr
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 
 </div>
 
